@@ -2,7 +2,7 @@
 
 **Gambaran besarnya:** Bab ini membahas bagaimana log dari beberapa aplikasi dikumpulkan ke satu tempat, yaitu PostgreSQL, menggunakan Fluent Bit.
 
-[\[Docker\] Container Logging 에 대해 알아보자. — Developer's Delight](https://images.openai.com/static-rsc-4/_Mun6gDwcBAphf4JKWqAOz5P0eWPX4xuW1TIsN6w_8GbjTLLOT2Qnq8hxcUfvnru5Dpj1XjhNhAd1Qg28Xus3dg6q3mMXLwtCicHsaUClB5PPX5e-0L_2cRsb-_OlH8BLHKwCLxaT_VNLVxqMqs4KD9ua9SELHtyX6X6I7lBtqY?purpose=inline)
+[\[Docker\] Container Logging 에 대해 알아보자. — Developer's Delight](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FIrQuf%2FbtrIBTXNzWT%2FAAAAAAAAAAAAAAAAAAAAALuIX70Wd9-2wIbbdaiavjEkQMmwkTKgs2UZ0idOBs-q%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DEcB2ErMXK7hRMaiGiCHhVbDI1SE%253D)
 
 [sonseungha.tistory.com](https://sonseungha.tistory.com/618?utm_source=chatgpt.com)
 
