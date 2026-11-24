@@ -1,13 +1,3 @@
-Saya baca dulu cheatsheet Bab 6 dan Bab 7 secara lengkap supaya jawabannya sesuai konfigurasi lab Anda.
-
-Saya juga perlu membaca kode lab PMB di zip untuk jawaban studi kasus (soal 21–25).
-
-Berikut jawaban untuk 25 soal, disusun dari cheatsheet Bab 6 dan 7 serta kode lab PMB di zip Anda. Saya tidak bisa menjalankan demo di laptop Anda. Evidence harus keluar dari lab Anda sendiri saat sesi, jadi bagian **Demo** hanya menunjukkan apa yang dijalankan. Bagian **Jelaskan** dan **Lanjutan** dipakai sebagai bahan belajar, dan saat ujian sebaiknya Anda ucapkan dengan kata-kata sendiri.
-
-Soal 1–20 memakai stack cheatsheet (Bab 6: `postgres-db`, `fluentbit_user`). Soal 21–25 memakai lab PMB dari zip (`log-db`, `registration-api`). Keduanya sama-sama memublikasikan port `24224` dan `2020`, jadi jangan dijalankan bersamaan. Jalankan satu stack, lalu `docker compose stop`, baru stack berikutnya. Ujian meminta Bab 6 dan Bab 7 hidup bersamaan untuk soal 20, jadi pastikan Bab 6 (cheatsheet) menyala saat itu.
-
----
-
 ## Bab 6 — Centralized Logging
 
 **1. Alur log end-to-end**
@@ -214,7 +204,3 @@ Soal 1–20 memakai stack cheatsheet (Bab 6: `postgres-db`, `fluentbit_user`). S
   8. Hilangkan `privileged`.
   9. Secure cookie dan HTTPS.
   10. Pin dan scan image.
-
----
-
-Jika Anda memberi tahu paket Anda (A–E), saya bisa meringkas hanya 5 soal yang relevan, lengkap dengan urutan perintah demo yang bisa Anda latih. Bisa juga saya buatkan gladi singkat: saya bertanya, Anda menjawab, lalu saya beri masukan.
